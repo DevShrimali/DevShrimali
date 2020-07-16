@@ -2,7 +2,7 @@
   <tr align="center" padding="0">
     <td>
       <a title="Portfolio" href="https://github.com/DevShrimali">
-        <img alt="portfolio of cmcodes" src="https://avatars2.githubusercontent.com/u/34341671?s=460&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4" width="60" height="60" />
+        <img alt="portfolio of cmcodes" src="https://avatars1.githubusercontent.com/u/44333121?s=460&u=1d47d3d62633b9666e3e37aa040244345692c572&v=4" width="60" height="60" />
       </a>
       <a title="DEV.to" href="#">
         <img alt="Blogs of cmcodes" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="60" height="60" />
@@ -31,7 +31,7 @@
       </a>
     </td>
     <td>
-      <img src="#" />
+      <img src="https://github.com/DevShrimali/my-simpleortfolio/blob/master/devshrimali.gif" />
     </td>
   </tr>
 </table>
