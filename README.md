@@ -5,7 +5,7 @@
         <img alt="portfolio of cmcodes" src="https://avatars1.githubusercontent.com/u/44333121?s=460&u=1d47d3d62633b9666e3e37aa040244345692c572&v=4" width="60" height="60" />
       </a>
       <a title="DEV.to" href="#">
-        <img alt="Blogs of cmcodes" src="https://www.flaticon.com/free-icon/gmail_732200?term=GMAIL&page=1&position=2" width="60" height="60" />
+        <img alt="Blogs of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="60" height="60" />
       </a> <br/>
       <a title="Instagram" href="https://instagram.com/itsdevshrimali">
         <img alt="Instagram of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="60" height="60" />
