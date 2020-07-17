@@ -11,7 +11,7 @@
         <img alt="Instagram of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="60" height="60" />
       </a>
       <a title="Email" href="mailto:devloper.ds@gmail.com">
-        <img alt="Email of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="60" height="60" />
+        <img alt="Email of cmcodes" src="https://www.flaticon.com/free-icon/gmail_732200?term=GMAIL&page=1&position=2" width="60" height="60" />
       </a>
     </td>
     <td>
