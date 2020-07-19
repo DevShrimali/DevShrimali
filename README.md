@@ -14,7 +14,7 @@
     </td>
     <td>
       <a title="Twitter" href="https://twitter.com/">
-        <img alt="Tweets of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="60" height="60" />
+        <img alt="Tweets of cmcodes" class="fa fa-instagram fa-inverse" width="60" height="60" />
       </a>
       <a title="Telegram" href="https://t.me/itsdevshrimali">
         <img alt="Telegram of cmcodes"
