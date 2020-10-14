@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NAKsXko-9U5tVJhzkrX5teelyNNiUGsT/view?usp=sharing](https://drive.google.com/file/d/1NAKsXko-9U5tVJhzkrX5teelyNNiUGsT/view?usp=sharing)
 
-- ⚡ Fun fact **I design UI**
+- ⚡ Fun fact **I Love To Build Website, Music And Reading a Book**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
