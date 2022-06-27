@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dev Shrimali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/44333121?s=400&u=1d47d3d62633b9666e3e37aa040244345692c572&v=4" alt="devshrimali" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/44333121?s=400&u=1d47d3d62633b9666e3e37aa040244345692c572&v=4" width:"100px" alt="devshrimali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devshrimali" alt="devshrimali" /></a> </p>
 
 - 🔭 I’m currently working on [Amazon-Clone](https://github.com/DevShrimali/Amazon-Clone)
 
